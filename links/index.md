@@ -4,6 +4,10 @@ layout: page
 comments: yes
 ---
 
+ε?з - 常用链接
+
+- [我的SkyDrive](http://cid-b279bbf95ffa1509.skydrive.live.com/home.aspx)
+
 ε?з - 衣·食·住·行
 
 - [Tour de France § 环法 §](http://www.letour.fr/)：喜欢骑车但没机会去法国的人可以望下这个来止渴
