@@ -7,7 +7,7 @@ comments: yes
 ε?з - 常用链接
 
 - [我的SkyDrive](http://cid-b279bbf95ffa1509.skydrive.live.com/home.aspx)
-
+- [MarkDown在线测试](http://daringfireball.net/projects/markdown/dingus)
 ε?з - 衣·食·住·行
 
 - [Tour de France § 环法 §](http://www.letour.fr/)：喜欢骑车但没机会去法国的人可以望下这个来止渴
@@ -47,6 +47,6 @@ comments: yes
 ε?з - 软件
 
 - [R语言](http://www.r-project.org)：自由的统计计算和图形软件
+- [R Studio](http://www.rstudio.com/)：目前唯一有效支持[knitr](http://yihui.name/knitr/)的IDE
 - [pandoc](http://johnmacfarlane.net/pandoc/)：强大的文档转换工具，极客必备杀器，以防愣头客户索要Word版本
 - [LyX](http://www.lyx.org)：LaTeX初级用户的另一种选择，不过对我来说意义不大
-
